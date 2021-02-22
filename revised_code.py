@@ -1,5 +1,5 @@
 """
-Alternative implemention of functions for the computation of a
+Alternative implementation of functions for the computation of a
 confusion matrix.
 """
 
